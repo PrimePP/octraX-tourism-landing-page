@@ -26,7 +26,7 @@ Screen sizes
     - HTML
     - CSS 
     - Bootstrap
-- Deployed on *Vercel*  **[ClickMe]()** 
+- Deployed on *Vercel*  **[ClickMe](https://octra-x-tourism-landing-page.vercel.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
